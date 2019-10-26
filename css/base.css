@@ -1,0 +1,18 @@
+body {
+    background-color: lightyellow;
+  }
+
+  main>div{
+    text-align: center;
+    width: 30%;
+    padding: 20px;
+    display: inline-block;
+}
+  main>#container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    overflow: hidden;
+    } 
+
